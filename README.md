@@ -13,7 +13,9 @@ Demonstrate your ability to scale an existing API test suite.
 1. Extend the provided /tests/test-api.js: 
 
 2. Add coverage for the following endpoints:
+
 GET https://metro.co.uk/wp-json/videos/
+
 GET https://metro.co.uk/wp-json/metro-horoscopes/daily
 
 3. Don't just check for a 200 OK. 
