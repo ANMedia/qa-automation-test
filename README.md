@@ -14,7 +14,7 @@ Demonstrate your ability to scale an existing API test suite.
 
 2. Add coverage for the following endpoints:
 
-GET https://metro.co.uk/wp-json/videos/
+GET https://metro.co.uk/wp-json/videos/search
 
 GET https://metro.co.uk/wp-json/metro-horoscopes/daily
 
